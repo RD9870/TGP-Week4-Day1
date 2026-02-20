@@ -1,5 +1,5 @@
 ## 📝 Overview
-This part of a task for the tatweer graduate project program
+This part of a task for the tatweer graduate project program week 4: Frontend Web Fundamentals
 
 ![Static Badge](https://img.shields.io/badge/-html5-E34F26?style=plastic&logo=html5&labelColor=5b5b5b)
 ![Static Badge](https://img.shields.io/badge/-css-663399?style=plastic&logo=css&labelColor=5b5b5b)
